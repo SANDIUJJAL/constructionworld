@@ -1,0 +1,39 @@
+doctype html
+html(lang="es", dir="ltr")
+    head
+        meta(name="viewport", content="width=device-width, user-scalable=no, initial-scale=1.0")
+        meta(charset="utf-8")
+        link(rel="stylesheet", type="text/css", href="main.css")
+
+    body
+
+        div.main
+            
+            div.dog
+                
+                div.dog__paws
+                    div.dog__bl-leg.leg
+                        div.dog__bl-paw.paw
+                        div.dog__bl-top.top
+                    div.dog__fl-leg.leg
+                        div.dog__fl-paw.paw
+                        div.dog__fl-top.top
+                    div.dog__fr-leg.leg
+                        div.dog__fr-paw.paw
+                        div.dog__fr-top.top
+                        
+                div.dog__body
+                    div.dog__tail
+                            
+                div.dog__head
+                    div.dog__snout
+                        div.dog__nose
+                        div.dog__eyes
+                            div.dog__eye-l
+                            div.dog__eye-r
+                div.dog__head-c
+                    div.dog__ear-l
+                    div.dog__ear-r
+                
+
+            
