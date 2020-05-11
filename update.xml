@@ -1,0 +1,15 @@
+<installerInformation>
+    <version>6.1.32.0</version>
+	<desc>https://www.autodesk.com/</desc>
+    <platformFileList>
+        <platformFile>
+            <filename>AutodeskDownloadManagerSetup.exe</filename>
+            <platform>windows</platform>
+        </platformFile>
+    </platformFileList>
+    <downloadLocationList>
+        <downloadLocation>
+            <url>https://emsfs.autodesk.com/utility/dlm/prod/Installer/6_001_032/</url>
+        </downloadLocation>
+    </downloadLocationList>
+</installerInformation>
